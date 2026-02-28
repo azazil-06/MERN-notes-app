@@ -1,11 +1,13 @@
 import express from "express"
-import { createANote, deleteNote, getAllNotes, updateNote } from "../controllers/notesController.js";
+import { createANote, deleteNote, getAllNotes, getNoteById, updateNote } from "../controllers/notesController.js";
 
 const router = express.Router();
 
 
    //    '/' already includes /api/ in server.js
 router.get("/", getAllNotes);
+
+router.get("/:id", getNoteById);
     
 //     (req,res)=>{
 //     res.status(200).send("You just fetched the notes");
