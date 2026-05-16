@@ -1,5 +1,7 @@
 # 📝 MERN Notes App
 
+**Live Demo:** [https://goatnotes-8ypj.onrender.com/](https://goatnotes-8ypj.onrender.com/)
+
 A full-stack, modern notes application built with the MERN (MongoDB, Express, React, Node.js) stack. Designed with a focus on clean architecture, responsive UI, and robust backend security including rate-limiting.
 
 ## 🚀 Features
