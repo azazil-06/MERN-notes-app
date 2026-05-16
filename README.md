@@ -4,6 +4,14 @@
 
 A full-stack, modern notes application built with the MERN (MongoDB, Express, React, Node.js) stack. Designed with a focus on clean architecture, responsive UI, and robust backend security including rate-limiting.
 
+<br />
+<p align="center">
+  <img src="./assets/Screenshot%202026-05-16%20222019.png" width="30%" alt="Notes App Screenshot 1" />
+  <img src="./assets/Screenshot%202026-05-16%20222040.png" width="30%" alt="Notes App Screenshot 2" />
+  <img src="./assets/Screenshot%202026-05-16%20222056.png" width="30%" alt="Notes App Screenshot 3" />
+</p>
+<br />
+
 ## 🚀 Features
 
 - **Complete CRUD Operations**: Seamlessly Create, Read, Update, and Delete notes.
